@@ -14,7 +14,7 @@
   // Element: container-top-image
 
   &-image {
-    width: 220px;
+    width: 195px;
     height: 220px;
     transition: all .3s;
 
@@ -24,8 +24,8 @@
     }
 
     @include media-breakpoint-up(lg) {
-      width: 320px;
-      height: 320px;
+      width: 247px;
+      height: 306px;
     }
   }
 
