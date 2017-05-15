@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: thinuss@gmail.com
-brand: Thinus Snyman
+brand: Thinus Snyman 55
 headline: Engineer, Innovator and Software Enthusiast
 description: > # this means to ignore newlines until "baseurl:"
   New Site
