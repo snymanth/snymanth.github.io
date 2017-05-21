@@ -2,6 +2,7 @@
 
 .container-contacts h1{
   
+  color: white;
 
 }
 
@@ -31,14 +32,17 @@
     &:hover {
       background-color: $theme-color-main-contrast;
 
+
       a {
         color: darken($theme-color-main, 50%);
+
       }
     }
   }
 
   & a {
-    color: darken($theme-color-main, 50%);
+   /* color: darken($theme-color-main, 50%);*/
+   color: white;
     text-decoration: none;
   }
 }
